@@ -2,17 +2,17 @@
    "familyName": "Zolina",
    "firstName": "Natalia",
    "patronymic": "Sergeevna",
-   "age": "33",
+   "age": 33,
    "pets": {
-       "numPets": "2"
-	   "tipePets": "Cat"
+       "numPets": 2,
+	   "tipePets": "Cat",
 	}
-   "futureSalary": "2000$"
+   "futureSalary": "2000$",
    "favoritThings": {
-	"favoriteMovie": "The Fifth Element"
-	"favoriteSeries": "Lie to Me"
-	"favoriteFood": "Asian food"
-	"favoriteTime": "Spring"
+	"favoriteMovie": "The Fifth Element",
+	"favoriteSeries": "Lie to Me",
+	"favoriteFood": "Asian food",
+	"favoriteTime": "Spring",
 	"countryVisit": "Jordan"
         }
 }
