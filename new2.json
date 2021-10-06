@@ -8,4 +8,11 @@
 	   "tipePets": "Cat"
 	}
    "futureSalary": "2000$"
+   "favoritThings": {
+	"favoriteMovie": "The Fifth Element"
+	"favoriteSeries": "Lie to Me"
+	"favoriteFood": "Asian food"
+	"favoriteTime": "Spring"
+	"countryVisit": "Jordan"
+        }
 }
