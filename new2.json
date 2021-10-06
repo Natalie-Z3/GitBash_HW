@@ -3,10 +3,7 @@
    "firstName": "Natalia",
    "patronymic": "Sergeevna",
    "age": 33,
-   "pets": {
-       "numPets": 2,
-	   "tipePets": "Cat",
-	}
+   "numPets": 2,
    "futureSalary": "2000$",
    "favoritThings": {
 	"favoriteMovie": "The Fifth Element",
