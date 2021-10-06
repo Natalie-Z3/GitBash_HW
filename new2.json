@@ -1,4 +1,11 @@
-Zolina Natalia Sergeeva
-33 years old
-Two cats
-2000$
+{
+   "familyName": "Zolina",
+   "firstName": "Natalia",
+   "patronymic": "Sergeevna",
+   "age": "33",
+   "pets": {
+       "numPets": "2"
+	   "tipePets": "Cat"
+	}
+   "futureSalary": "2000$"
+}

@@ -1,4 +1,13 @@
-Zolina Natalia Sergeeva
-33 years old
-Two cats
-2000$
+<?xml version="1.0" encoding="UTF-8"?>
+
+<profile>
+   <user number="user_1"/>
+      <familyName>Zolina</familyName>
+	  <firstName>Natalia</firstName>
+	  <patronymic>Sergeevna</patronymic>
+	  <age>33</age>
+	  <numPets>2</numPets>
+	  <futureSalary>2000$</futureSalary>
+   </user>
+</profile>
+
