@@ -1,3 +1,5 @@
+(full name, age, number of pets, future desired salary)
+
 Zolina Natalia Sergeeva
 33 years old
 Two cats
